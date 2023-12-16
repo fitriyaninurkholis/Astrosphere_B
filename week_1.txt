@@ -1,2 +1,4 @@
-learning 
-yani
+learning version control week 1
+perkenalkan nama saya fitriyani
+assalamu'alaikum
+
